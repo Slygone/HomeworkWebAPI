@@ -18,5 +18,11 @@ getUserById.addEventListener('click', async () => {
 
 function displayData(data) {
     const output = document.getElementById('output');
-    output.innerHTML = `<p>${data}</p>`;
+
+    try {
+        const parsedData = JSON.parse(data);
+        output.innerHTML = `<p>${JSON.stringify(parsedData, null, 2)}</p>`;
+    } catch (error) {
+        output.innerHTML = `<p>${data}</p>`;
+    }
 }

@@ -30,3 +30,4 @@ C:\Users\Nik\Desktop\WebAPI\Classes\HomeworkWebAPI\HomeworkWebAPI\obj\Debug\net6
 C:\Users\Nik\Desktop\WebAPI\Classes\HomeworkWebAPI\HomeworkWebAPI\obj\Debug\net6.0\HomeworkWebAPI.pdb
 C:\Users\Nik\Desktop\WebAPI\Classes\HomeworkWebAPI\HomeworkWebAPI\obj\Debug\net6.0\HomeworkWebAPI.genruntimeconfig.cache
 C:\Users\Nik\Desktop\WebAPI\Classes\HomeworkWebAPI\HomeworkWebAPI\obj\Debug\net6.0\ref\HomeworkWebAPI.dll
+C:\Users\Nik\Desktop\WebAPI\Classes\HomeworkWebAPI\HomeworkWebAPI\bin\Debug\net6.0\HomeworkWebAPI.staticwebassets.runtime.json

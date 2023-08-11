@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "LhXgHYi8VuugU/qROlNukP2Ac8mhtvLL6MuYf/wfwGI=",
+  "Hash": "arfjvFiL7jeXXaRrmK86CqP6+HsQ5D0/P74yPMzIcNU=",
   "Source": "HomeworkWebAPI",
   "BasePath": "_content/HomeworkWebAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HomeworkWebAPI\\wwwroot",
+      "Source": "HomeworkWebAPI",
+      "ContentRoot": "C:\\Users\\Nik\\Desktop\\WebAPI\\Classes\\HomeworkWebAPI\\HomeworkWebAPI\\wwwroot\\",
+      "BasePath": "_content/HomeworkWebAPI",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }
