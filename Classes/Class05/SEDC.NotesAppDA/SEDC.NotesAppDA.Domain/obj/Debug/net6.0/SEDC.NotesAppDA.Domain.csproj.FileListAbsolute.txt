@@ -1,0 +1,14 @@
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.Domain\bin\Debug\net6.0\SEDC.NotesAppDA.Domain.deps.json
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.Domain\bin\Debug\net6.0\SEDC.NotesAppDA.Domain.runtimeconfig.json
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.Domain\bin\Debug\net6.0\SEDC.NotesAppDA.Domain.dll
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.Domain\bin\Debug\net6.0\SEDC.NotesAppDA.Domain.pdb
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.Domain\obj\Debug\net6.0\SEDC.NotesAppDA.Domain.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.Domain\obj\Debug\net6.0\SEDC.NotesAppDA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.Domain\obj\Debug\net6.0\SEDC.NotesAppDA.Domain.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.Domain\obj\Debug\net6.0\SEDC.NotesAppDA.Domain.AssemblyInfo.cs
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.Domain\obj\Debug\net6.0\SEDC.NotesAppDA.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.Domain\obj\Debug\net6.0\SEDC.NotesAppDA.Domain.dll
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.Domain\obj\Debug\net6.0\refint\SEDC.NotesAppDA.Domain.dll
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.Domain\obj\Debug\net6.0\SEDC.NotesAppDA.Domain.pdb
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.Domain\obj\Debug\net6.0\SEDC.NotesAppDA.Domain.genruntimeconfig.cache
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.Domain\obj\Debug\net6.0\ref\SEDC.NotesAppDA.Domain.dll

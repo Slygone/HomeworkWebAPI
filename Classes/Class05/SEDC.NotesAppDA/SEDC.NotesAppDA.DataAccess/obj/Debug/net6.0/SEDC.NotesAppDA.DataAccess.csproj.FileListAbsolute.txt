@@ -1,0 +1,17 @@
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.DataAccess\bin\Debug\net6.0\SEDC.NotesAppDA.DataAccess.deps.json
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.DataAccess\bin\Debug\net6.0\SEDC.NotesAppDA.DataAccess.runtimeconfig.json
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.DataAccess\bin\Debug\net6.0\SEDC.NotesAppDA.DataAccess.dll
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.DataAccess\bin\Debug\net6.0\SEDC.NotesAppDA.DataAccess.pdb
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.DataAccess\bin\Debug\net6.0\SEDC.NotesAppDA.Domain.dll
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.DataAccess\bin\Debug\net6.0\SEDC.NotesAppDA.Domain.pdb
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.DataAccess\obj\Debug\net6.0\SEDC.NotesAppDA.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.DataAccess\obj\Debug\net6.0\SEDC.NotesAppDA.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.DataAccess\obj\Debug\net6.0\SEDC.NotesAppDA.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.DataAccess\obj\Debug\net6.0\SEDC.NotesAppDA.DataAccess.AssemblyInfo.cs
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.DataAccess\obj\Debug\net6.0\SEDC.NotesAppDA.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.DataAccess\obj\Debug\net6.0\SEDC.NotesAppDA.DataAccess.csproj.CopyComplete
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.DataAccess\obj\Debug\net6.0\SEDC.NotesAppDA.DataAccess.dll
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.DataAccess\obj\Debug\net6.0\refint\SEDC.NotesAppDA.DataAccess.dll
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.DataAccess\obj\Debug\net6.0\SEDC.NotesAppDA.DataAccess.pdb
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.DataAccess\obj\Debug\net6.0\SEDC.NotesAppDA.DataAccess.genruntimeconfig.cache
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesAppDA\SEDC.NotesAppDA.DataAccess\obj\Debug\net6.0\ref\SEDC.NotesAppDA.DataAccess.dll

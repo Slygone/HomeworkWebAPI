@@ -1,0 +1,15 @@
+C:\Users\Nik\Desktop\WebAPI\Classes\Class06\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\net6.0\SEDC.NotesApp.Dtos.deps.json
+C:\Users\Nik\Desktop\WebAPI\Classes\Class06\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\net6.0\SEDC.NotesApp.Dtos.dll
+C:\Users\Nik\Desktop\WebAPI\Classes\Class06\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\net6.0\SEDC.NotesApp.Dtos.pdb
+C:\Users\Nik\Desktop\WebAPI\Classes\Class06\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\net6.0\SEDC.NotesApp.Domain.dll
+C:\Users\Nik\Desktop\WebAPI\Classes\Class06\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\net6.0\SEDC.NotesApp.Domain.pdb
+C:\Users\Nik\Desktop\WebAPI\Classes\Class06\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\net6.0\SEDC.NotesApp.Dtos.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\WebAPI\Classes\Class06\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\net6.0\SEDC.NotesApp.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\WebAPI\Classes\Class06\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\net6.0\SEDC.NotesApp.Dtos.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\WebAPI\Classes\Class06\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\net6.0\SEDC.NotesApp.Dtos.AssemblyInfo.cs
+C:\Users\Nik\Desktop\WebAPI\Classes\Class06\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\net6.0\SEDC.NotesApp.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\WebAPI\Classes\Class06\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\net6.0\SEDC.NotesApp.Dtos.csproj.CopyComplete
+C:\Users\Nik\Desktop\WebAPI\Classes\Class06\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\net6.0\SEDC.NotesApp.Dtos.dll
+C:\Users\Nik\Desktop\WebAPI\Classes\Class06\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\net6.0\refint\SEDC.NotesApp.Dtos.dll
+C:\Users\Nik\Desktop\WebAPI\Classes\Class06\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\net6.0\SEDC.NotesApp.Dtos.pdb
+C:\Users\Nik\Desktop\WebAPI\Classes\Class06\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\net6.0\ref\SEDC.NotesApp.Dtos.dll

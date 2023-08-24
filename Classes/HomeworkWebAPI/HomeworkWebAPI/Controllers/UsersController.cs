@@ -12,20 +12,23 @@ namespace HomeworkWebAPI.Controllers
         {
             return Ok(StaticDb.UserNames);
         }
-        [HttpGet("{index}")]//http://localhost:[port]/api/users/1
-        public ActionResult<string> GetUserById(int index)
+        [HttpGet("{user}")]//http://localhost:[port]/api/users/1
+        public ActionResult<string> GetUserByUsername(string username)
         {
             try
             {
-                if (index < 0)
+                if (string.IsNullOrEmpty(username))
                 {
-                    return BadRequest("The index cannot be negative!");
+                    return BadRequest("Invalid User!");
                 }
-                if (index >= StaticDb.UserNames.Count)
+                
+                var user = StaticDb.UserNames.FirstOrDefault(x => x.Equals(username));
+                
+                if(user == null)
                 {
-                    return NotFound($"There is no user on index {index}");
+                    return NotFound("There is no such User!");
                 }
-                return Ok(StaticDb.UserNames[index]);
+                return Ok(user);
             }
             catch (Exception ex)
             {

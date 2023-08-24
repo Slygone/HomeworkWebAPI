@@ -1,0 +1,14 @@
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.DataAccess\bin\Debug\net6.0\SEDC.NotesScaffoldedApp.DataAccess.deps.json
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.DataAccess\bin\Debug\net6.0\SEDC.NotesScaffoldedApp.DataAccess.runtimeconfig.json
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.DataAccess\bin\Debug\net6.0\SEDC.NotesScaffoldedApp.DataAccess.dll
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.DataAccess\bin\Debug\net6.0\SEDC.NotesScaffoldedApp.DataAccess.pdb
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.DataAccess\obj\Debug\net6.0\SEDC.NotesScaffoldedApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.DataAccess\obj\Debug\net6.0\SEDC.NotesScaffoldedApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.DataAccess\obj\Debug\net6.0\SEDC.NotesScaffoldedApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.DataAccess\obj\Debug\net6.0\SEDC.NotesScaffoldedApp.DataAccess.AssemblyInfo.cs
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.DataAccess\obj\Debug\net6.0\SEDC.NotesScaffoldedApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.DataAccess\obj\Debug\net6.0\SEDC.NotesScaffoldedApp.DataAccess.dll
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.DataAccess\obj\Debug\net6.0\refint\SEDC.NotesScaffoldedApp.DataAccess.dll
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.DataAccess\obj\Debug\net6.0\SEDC.NotesScaffoldedApp.DataAccess.pdb
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.DataAccess\obj\Debug\net6.0\SEDC.NotesScaffoldedApp.DataAccess.genruntimeconfig.cache
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.DataAccess\obj\Debug\net6.0\ref\SEDC.NotesScaffoldedApp.DataAccess.dll

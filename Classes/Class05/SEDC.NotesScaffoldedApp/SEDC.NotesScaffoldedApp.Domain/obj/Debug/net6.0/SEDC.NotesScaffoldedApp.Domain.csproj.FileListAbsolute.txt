@@ -1,0 +1,14 @@
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.Domain\bin\Debug\net6.0\SEDC.NotesScaffoldedApp.Domain.deps.json
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.Domain\bin\Debug\net6.0\SEDC.NotesScaffoldedApp.Domain.runtimeconfig.json
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.Domain\bin\Debug\net6.0\SEDC.NotesScaffoldedApp.Domain.dll
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.Domain\bin\Debug\net6.0\SEDC.NotesScaffoldedApp.Domain.pdb
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.Domain\obj\Debug\net6.0\SEDC.NotesScaffoldedApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.Domain\obj\Debug\net6.0\SEDC.NotesScaffoldedApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.Domain\obj\Debug\net6.0\SEDC.NotesScaffoldedApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.Domain\obj\Debug\net6.0\SEDC.NotesScaffoldedApp.Domain.AssemblyInfo.cs
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.Domain\obj\Debug\net6.0\SEDC.NotesScaffoldedApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.Domain\obj\Debug\net6.0\SEDC.NotesScaffoldedApp.Domain.dll
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.Domain\obj\Debug\net6.0\refint\SEDC.NotesScaffoldedApp.Domain.dll
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.Domain\obj\Debug\net6.0\SEDC.NotesScaffoldedApp.Domain.pdb
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.Domain\obj\Debug\net6.0\SEDC.NotesScaffoldedApp.Domain.genruntimeconfig.cache
+C:\Users\Nik\Desktop\WebAPI\Classes\Class05\SEDC.NotesScaffoldedApp\SEDC.NotesScaffoldedApp.Domain\obj\Debug\net6.0\ref\SEDC.NotesScaffoldedApp.Domain.dll

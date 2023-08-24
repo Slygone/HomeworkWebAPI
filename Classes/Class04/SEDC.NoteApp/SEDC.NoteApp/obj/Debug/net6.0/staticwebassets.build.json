@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bUAwcRUCnJdAhoIkCY4NtQOnNd/bfapt24qrCXgGfCk=",
+  "Source": "SEDC.NoteApp",
+  "BasePath": "_content/SEDC.NoteApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
